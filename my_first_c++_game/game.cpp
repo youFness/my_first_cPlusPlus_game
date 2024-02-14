@@ -147,8 +147,7 @@ simulate_game(Input* input, float dt) {
 		}
 
 		draw_text("PONG TUTORIAL", -73, 40, 2, 0xffffff);
-		draw_text("WATCH THE STEP BY STEP TUTORIAL ON", -73, 22, .75, 0xffffff);
-		draw_text("YOUTUBE.COM/DANZAIDAN", -73, 15, 1.22, 0xffffff);
+		draw_text("CHOOSE GAME OPTION", -73, 15, 1.22, 0xffffff);
 
 	}
 }
